@@ -14,7 +14,7 @@ async def on_command_error(ctx, error):
 
 
 @bot.command()
-async def hello(ctx):
+async def (ctx):
     await ctx.send('＼＼\\٩( 'ω' )و //／／')
 
 
